@@ -23,7 +23,7 @@ chmod +x run_docker.bash
 ```
 Inside container run build_orbslam3.bash
 ```
-chmod +x 
+chmod +x build_orbslam3.bash
 ./build_orbslam3.bash
 ```
 
